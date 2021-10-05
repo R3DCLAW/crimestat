@@ -1,0 +1,44 @@
+[
+        {
+            "id": 1,
+            "title": "Ted Bundy",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/JacktheRipper1888.jpg",
+            "description": "Ted Bundy secuestró y asesinó a brutalmente a 30 mujeres en Estados Unidos durante 1974 y 1978. Además, se cree que es responsable de otras 40 desapariciones sin resolver."
+        },
+        {
+            "id": 2,
+            "title": "John Wayne Gacy",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/JacktheRipper1888.jpg",
+            "description": "En 1968 fue condenado a 10 años de prisión por asaltar sexualmente a dos jóvenes, pero su buena conducta produjo que la sentencia bajase a los 18 meses. Tras salir de la cárcel se casó por segunda vez. En las fiestas vecinales se disfrazaba y se hacia llamar "Pogo el payaso", pero seis años después de su salida de prisión fue arrestado por un supuesto secuestro. A raíz de la investigación e descubrió que John había asesinado a 33 personas que había enterrado en las proximidades de su casa, así como en un río anexo, pues se quedó sin espacio. Torturó y violó a autoestopistas, mendigos, gigolós y jóvenes del lugar. Fue ejecutado en 1994."
+        },
+        {
+            "id": 3,
+            "title": "Ted Bundy",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/JacktheRipper1888.jpg",
+            "description": "Ted Bundy secuestró y asesinó a brutalmente a 30 mujeres en Estados Unidos durante 1974 y 1978. Además, se cree que es responsable de otras 40 desapariciones sin resolver."
+        },
+        {
+            "id": 4,
+            "title": "Ted Bundy",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/JacktheRipper1888.jpg",
+            "description": "Ted Bundy secuestró y asesinó a brutalmente a 30 mujeres en Estados Unidos durante 1974 y 1978. Además, se cree que es responsable de otras 40 desapariciones sin resolver."
+        },
+        {
+            "id": 5,
+            "title": "Ted Bundy",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/JacktheRipper1888.jpg",
+            "description": "Ted Bundy secuestró y asesinó a brutalmente a 30 mujeres en Estados Unidos durante 1974 y 1978. Además, se cree que es responsable de otras 40 desapariciones sin resolver."
+        },
+        {
+            "id": 6,
+            "title": "Ted Bundy",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/JacktheRipper1888.jpg",
+            "description": "Ted Bundy secuestró y asesinó a brutalmente a 30 mujeres en Estados Unidos durante 1974 y 1978. Además, se cree que es responsable de otras 40 desapariciones sin resolver."
+        },
+        {
+            "id": 7,
+            "title": "Ted Bundy",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/JacktheRipper1888.jpg",
+            "description": "Ted Bundy secuestró y asesinó a brutalmente a 30 mujeres en Estados Unidos durante 1974 y 1978. Además, se cree que es responsable de otras 40 desapariciones sin resolver."
+        }
+]
