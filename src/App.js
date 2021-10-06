@@ -1,7 +1,8 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import "./App.scss";
 import Header from "./components/Header/Header";
 import Criminal from "./components/Criminal/Criminal";
+import Data from "./db.json";
 
 const App = () => {
   const [criminals, setCriminals] = useState([]);
@@ -10,7 +11,16 @@ const App = () => {
     <div className="App">
       <Header />
       <div className="criminals">
-        <Criminal />
+        {Data.map((criminalData) => {
+          return (
+            <Criminal
+              key={criminalData.id}
+              title={criminalData.title}
+              description={criminalData.description}
+              image={criminalData.image}
+            />
+          );
+        })}
       </div>
     </div>
   );
