@@ -1,8 +1,8 @@
 import "./Criminal.scss";
 
-const Criminal = ({ title, description, image }) => {
+const Criminal = ({ title, description, image, toggleInfochart }) => {
   return (
-    <div className="criminal">
+    <div className="criminal" onClick={toggleInfochart}>
       <div className="card">
         <div>
           <img

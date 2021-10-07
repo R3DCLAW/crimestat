@@ -1,10 +1,11 @@
 import "./Infochart.scss";
 
-const Infochart = () => {
+const Infochart = ({ title }) => {
   return (
-    <div className="container">
-      <div className="information"></div>
-      <div className="map"></div>
+    <div className="infochart">
+      <div className="content">
+        <button className="close">Close</button>
+      </div>
     </div>
   );
 };
