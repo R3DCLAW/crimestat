@@ -2,43 +2,67 @@
         {
             "id": 1,
             "title": "Ted Bundy",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/JacktheRipper1888.jpg",
+            "image": "https://pymstatic.com/9068/conversions/ted-bundy-thumb.jpg",
             "description": "Ted Bundy secuestró y asesinó a brutalmente a 30 mujeres en Estados Unidos durante 1974 y 1978. Además, se cree que es responsable de otras 40 desapariciones sin resolver."
         },
         {
             "id": 2,
             "title": "John Wayne Gacy",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/JacktheRipper1888.jpg",
+            "image": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcTt4X-RWLVVE6G7ejT6dyyWXUohdZ37frcJaKeLe26SIEgyqNy6QmVYCv9-tRxY",
             "description": "En 1968 fue condenado a 10 años de prisión por asaltar sexualmente a dos jóvenes, pero su buena conducta produjo que la sentencia bajase a los 18 meses. Tras salir de la cárcel se casó por segunda vez. En las fiestas vecinales se disfrazaba y se hacia llamar \"Pogo el payaso\", pero seis años después de su salida de prisión fue arrestado por un supuesto secuestro. A raíz de la investigación e descubrió que John había asesinado a 33 personas que había enterrado en las proximidades de su casa, así como en un río anexo, pues se quedó sin espacio. Torturó y violó a autoestopistas, mendigos, gigolós y jóvenes del lugar. Fue ejecutado en 1994."
         },
         {
             "id": 3,
-            "title": "Ted Bundy",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/JacktheRipper1888.jpg",
-            "description": "Ted Bundy secuestró y asesinó a brutalmente a 30 mujeres en Estados Unidos durante 1974 y 1978. Además, se cree que es responsable de otras 40 desapariciones sin resolver."
+            "title": "Jeffrey Dahmer",
+            "image": "https://www.biography.com/.image/t_share/MTE1ODA0OTcxNTk5NzU4ODYx/jeffrey-dahmer-9264755-1-402.jpg",
+            "description": "Asesinó a 17 hombres y jóvenes durante 13 años. Fue acusado además de necrofilia y desmembramiento, además de canibalismo. Algunas de sus victimas escaparon, pero solo una consiguió llegar a la policía. Cuando los agente llegaron al hogar de Dahmner descubrieron una aterradora creación, basada en restos de sus victimas, unidas entre sí. Fue llevado ante la justicia en 1994 y asesinado más tarde en el correccional de Columbia."
         },
         {
             "id": 4,
-            "title": "Ted Bundy",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/JacktheRipper1888.jpg",
-            "description": "Ted Bundy secuestró y asesinó a brutalmente a 30 mujeres en Estados Unidos durante 1974 y 1978. Además, se cree que es responsable de otras 40 desapariciones sin resolver."
+            "title": "Charles Manson",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/MansonB33920_8-14-17_%28cropped%29.jpg/230px-MansonB33920_8-14-17_%28cropped%29.jpg",
+            "description": "La familia Manson forma es tristemente famosa desde que entró en casa de Roman Polanski en 1969, en la que se encontraban amigos del director y su mujer, Sharon Tate, embarazada de 8 meses. Los asesinó a todos. Fue arrestado en el 71 y continúa en prisión desde entonces, siendo denegada la libertad provisional y sin ser ejecutado pues las leyes de california no permiten la pena de muerte."
         },
         {
             "id": 5,
-            "title": "Ted Bundy",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/JacktheRipper1888.jpg",
+            "title": "Andréi Chikatilo",
+            "image": "https://i1.sndcdn.com/artworks-rxq39NsSDO7C7POJ-5J89VQ-t500x500.jpg",
             "description": "Ted Bundy secuestró y asesinó a brutalmente a 30 mujeres en Estados Unidos durante 1974 y 1978. Además, se cree que es responsable de otras 40 desapariciones sin resolver."
         },
         {
             "id": 6,
-            "title": "Ted Bundy",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/JacktheRipper1888.jpg",
-            "description": "Ted Bundy secuestró y asesinó a brutalmente a 30 mujeres en Estados Unidos durante 1974 y 1978. Además, se cree que es responsable de otras 40 desapariciones sin resolver."
+            "title": "Romasanta",
+            "image": "https://www.larazon.es/resizer/erpyUk5z8ZLsZ9N15DYZ2HxLCO0=/840x0/smart/filters:format(jpg)/cloudfront-eu-central-1.images.arcpublishing.com/larazon/OESVNJ5POBGFVLFH7ZITOWJC7Q.jpg",
+            "description": "Se decía que era un licántropo. En los propios documentos oficiales se apuntó como enfermedad clínica (licantropía clínica). Durante años asesinó a nueve personas, entre mujeres y niños. Cuando fue arrestado alegó que una maldición le poseía y se transformaba en un lobo que atacaba a sus victimas. Se dice que de este hombre nace la leyenda del Sacamantecas o el hombre del saco."
         },
         {
             "id": 7,
-            "title": "Ted Bundy",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/JacktheRipper1888.jpg",
-            "description": "Ted Bundy secuestró y asesinó a brutalmente a 30 mujeres en Estados Unidos durante 1974 y 1978. Además, se cree que es responsable de otras 40 desapariciones sin resolver."
+            "title": "Zodiac",
+            "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2021/10/56b2a261-0667-40f7-b88e-85210e952235.jpg",
+            "description": "El asesino del zodiaco actuó entre 1968 y 1969. Primero parecían crímenes sin conexión, el asesino envió una carta a la policía en la que se atribuía 37 victimas. El mayor sospechoso fue Arthur Leigh Allen, quien por falta de pruebas nunca llegó a ser condenado. Falleció en los 90 por lo que el caso quedó cerrado, aunque se reabrió en 2007."
+        },
+        {
+            "id": 8,
+            "title": "Peter Kürten",
+            "image": "https://criminalia.es/wp-content/uploads/2015/03/Peter-Kurten.jpg",
+            "description": "Asesinó a nueve personas e intentó matar a otras siete. Además agredió sexualmente a casi 80 personas. Violaba, apuñalaba y degollaba a sus victimas, tanto mujeres como niños. Después de robarles la vida, se bebía su sangre. En una ocasión llegó a asesinar a una niña y minutos después envió una carta a las autoridades con un mapa con la localización de los cadáveres. Fue apresado y condenado a la guillotina en 1931. Su última voluntad fue, que tras su decapitación, los verdugos estuvieran en silencio durante unos segundos, para que pudiera escuchar como su propia sangre goteaba en el suelo."
+        },
+        {
+            "id": 9,
+            "title": "Isabel Báthory",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Angelo_Bronzino_-_Portrait_of_Lucrezia_Panciatichi_-_WGA3266.jpg/220px-Angelo_Bronzino_-_Portrait_of_Lucrezia_Panciatichi_-_WGA3266.jpg",
+            "description": "Fue una de las aristócratas húngaras mas importantes de su época, a la que se apodaba la condesa sangrienta. Tiene el Récord Guinness a la mujer que más ha asesinado en la historia de la humanidad: 630 muertes. La condesa pensaba que para evitar envejecer, debía bañarse y beber en la sangre de sus doncellas vírgenes. Murió en 1614 cuando fue condenada a vivir emparedada en su castillo de Hungría."
+        },
+        {
+            "id": 10,
+            "title": "Aileen Wuornos",
+            "image": "https://m.media-amazon.com/images/M/MV5BOGY1NDY3OGQtYjEyYy00NTE2LWFkODQtMjExNWYxZDY3Y2VjXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_FMjpg_UX1000_.jpg",
+            "description": "Era una prostituta que asesinó al menos a siete hombres entre 1989 y 1990. Wuornos tuvo una infancia llena de abusos, fue madre adolescente y tuvo una relación con su hermano. Fue arrestada en 1991 y confesó los asesinatos. Fue condenada a morir por inyección letal en 2002."
+        },
+        {
+            "id": 11,
+            "title": "Ed Gein",
+            "image": "https://cdn.britannica.com/31/199331-050-EB6EF6AC/Ed-Gein-1957.jpg",
+            "description": "La desaparición de una mujer en Wisconsin centró la atención en Ed Gein, algo que llevó a los agentes a registrar el domicilio. Cuando estos llegaron encontraron hallazgos terroríficos de todo tipo que habían permanecido escondidos durante mucho tiempo. Entre ellos estacaba principalmente el cuerpo de la desaparecida desnudo, colgado de los tobillos, decapitado, abierto en canal y vacío de vísceras. Con el tiempo y las propias declaraciones del asesino se descubrió que abría tumbas de mujeres ya fallecidas y en su casa curtía sus pieles para hacer objetos como abrigos o lámparas e incluso cinturones con sus pezones. De la misma forma usaba los cráneos de sus víctimas como tazas y las vulvas las guardaba en cajas."
         }
 ]

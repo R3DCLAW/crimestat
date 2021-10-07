@@ -3,9 +3,17 @@ import "./Criminal.scss";
 const Criminal = ({ title, description, image }) => {
   return (
     <div className="criminal">
-      <h2>{title}</h2>
-      <div>
-        <img width="200" alt="una imagen" src={image} />
+      <div className="card">
+        <div>
+          <img
+            className="image"
+            width="260px"
+            height="240px"
+            alt="imagen del criminal"
+            src={image}
+          />
+        </div>
+        <h2>{title}</h2>
       </div>
     </div>
   );

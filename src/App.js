@@ -2,6 +2,7 @@ import { useState } from "react";
 import "./App.scss";
 import Header from "./components/Header/Header";
 import Criminal from "./components/Criminal/Criminal";
+import Infochart from "./components/Infochart/Infochart";
 import Data from "./db.json";
 
 const App = () => {
