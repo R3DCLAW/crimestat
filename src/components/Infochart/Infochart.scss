@@ -1,4 +1,4 @@
-.infochart {
+.criminal-infochart {
   position: fixed;
   top: 0;
   left: 0;
@@ -10,15 +10,31 @@
   align-items: center;
 }
 
-.content {
+.criminal-content {
   position: relative;
   padding: 3.2rem;
   width: 100%;
   max-width: 64rem;
   background: #fff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
-.close {
+.criminal-image {
+  border-radius: 7px;
+}
+
+.criminal-name {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.criminal-description {
+}
+
+.close-button {
   position: absolute;
   top: 1.6rem;
   right: 1.6rem;

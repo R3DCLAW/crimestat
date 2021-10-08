@@ -36,6 +36,8 @@ const App = () => {
           <Infochart
             closeInfochart={() => setInfochart(false)}
             title={criminal.title}
+            image={criminal.image}
+            description={criminal.description}
           />
         )}
       </div>

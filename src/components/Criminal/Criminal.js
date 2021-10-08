@@ -1,20 +1,21 @@
 import "./Criminal.scss";
+import { motion } from "framer-motion";
 
 const Criminal = ({ title, description, image, toggleInfochart }) => {
   return (
     <div className="criminal" onClick={toggleInfochart}>
-      <div className="card">
+      <motion.div whileHover={{ scale: 1.05 }} className="card">
         <div>
           <img
             className="image"
-            width="260px"
-            height="240px"
+            width="240px"
+            height="220px"
             alt="imagen del criminal"
             src={image}
           />
         </div>
         <h2>{title}</h2>
-      </div>
+      </motion.div>
     </div>
   );
 };
